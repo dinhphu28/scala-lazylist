@@ -1,0 +1,5 @@
+*.class
+.bsp
+.metals
+.scala-build
+*.tasty
